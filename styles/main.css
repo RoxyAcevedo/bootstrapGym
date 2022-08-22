@@ -7,9 +7,15 @@ body {
     color: rgb(247, 223, 223) !important;
 }
 
-
-
 .cardBanner img{
     width: 100%;
     height: 15%;
+}
+
+.actividades {
+    margin-top: 4%;
+}
+
+.card-title {
+    margin-top: 6rem;
 }
